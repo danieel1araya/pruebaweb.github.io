@@ -6,7 +6,7 @@ h1 {
 }
 
 body {
-    background-image: url(imagenes/3.png);
+    background-image: url(../imagenes/3.png);
     background-size: cover;
 }
 
@@ -21,17 +21,17 @@ p {
 }
 
 #cr7 {
-    background-image: url(/imagenes/pr.png);
+    background-image: url(../imagenes/pr.png);
     background-size: cover;
 }
 
 #messi{
-    background-image: url(/imagenes/arg.png);
+    background-image: url(../imagenes/arg.png);
     background-size: cover;
 }
 
 #pele {
-    background-image: url(/imagenes/br.png);
+    background-image: url(../imagenes/br.png);
     background-size: cover;
 }
 
