@@ -1,0 +1,40 @@
+h1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url(/imagenes/3.png);
+    background-size: cover;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: white;
+}
+
+#cr7 {
+    background-image: url(/imagenes/pr.png);
+    background-size: cover;
+}
+
+#messi{
+    background-image: url(/imagenes/arg.png);
+    background-size: cover;
+}
+
+#pele {
+    background-image: url(/imagenes/br.png);
+    background-size: cover;
+}
+
+#stats {
+    text-align: center;
+}
